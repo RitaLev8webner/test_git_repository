@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("hello How r u");
 		System.out.println("hello I am good ");
 		System.out.println("looks cool");
-		System.out.println("good test of commit and push cheers.");
+		//System.out.println("good test of commit and push cheers.");
 	}
 
 }
